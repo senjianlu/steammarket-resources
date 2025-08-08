@@ -1,0 +1,19 @@
+{
+    "buff_p2p": {
+        "url": "https://buff.163.com/",
+        "static": {
+            "icon": "",
+            "app_logo": ""
+        },
+        "title": {
+            "en": "",
+            "zh": "",
+            "ru": ""
+        },
+        "description": {
+            "en": "",
+            "zh": "",
+            "ru": ""
+        }
+    }
+}
